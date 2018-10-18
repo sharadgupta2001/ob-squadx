@@ -1,0 +1,42 @@
+{"name": "NYCHA Repair Violations",
+ "children": [{"name":"Insect/rodent infestation",
+  "children":
+   [{"name":"mice", "count":30},
+    {"name":"insect", "count":14},
+    {"name":"rat", "count":6},
+    {"name":"value", "count":2}]},
+    {"name":"Window",
+     "children":
+        [{"name":"broken window guards", "count":27},
+        {"name":"value", "count":49},
+        {"name":"broken glass", "count":2}]},
+    {"name":"Misc.", 
+      "children":
+        [{"name":"value", "count":262}]},
+    {"name":"Plaster/Paint", 
+      "children":
+        [{"name":"value", "count":313}]},
+    {"name":"Fire Hazard", 
+      "children":
+        [{"name":"smoke detector", "count":51}]},
+    {"name":"Broken Lock", 
+      "children":
+        [{"name":"value",  "count":43}]},
+    {"name":"CO Detector", 
+      "children":
+        [{"name":"value", "count":46}]},
+    {"name":"Bathroom", 
+      "children": 
+        [{"name":"value", "count":68}]},
+    {"name":"Water Leak", 
+      "children":
+        [{"name":"value", "count":49}]},
+    {"name":"Water/Plumbing", 
+      "children":
+        [{"name":"value", "count":15}]},
+    {"name":"Mold", 
+      "children":
+        [{"name":"value", "count":22}]},
+    {"name":"Electrical", 
+      "children":[{"name":"value", "count":1}]}]
+}
